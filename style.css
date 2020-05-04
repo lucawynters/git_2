@@ -39,9 +39,14 @@ h2 {
 }
 
 nav a {
+<<<<<<< HEAD
   color: red;
 }
 
+=======
+  color: orangered;
+}
+>>>>>>> navStyleOrange
 @media screen and (min-width: 960px) {
   h2,
   p {
